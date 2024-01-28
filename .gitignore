@@ -1,8 +1,5 @@
 /Data
-/ny_taxi_postgres_data
-/ny_taxi_postgres_data/base/16384/16527
-ny_taxi_postgres_data/base/16384/16498
-
+/ny_taxi_postgres_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
